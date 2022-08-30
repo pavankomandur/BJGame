@@ -183,15 +183,8 @@ public class BlackJack
 			{
 			    sum=sum + Integer.parseInt(cardValue.split("#")[0]);
 			}
-		}
-		
+		}	
 		return sum;
 		
-	}
-	
-	
-	
-	
+	}	
 }
-	
-//linkedhashmap is used to maintain insertion order
